@@ -17,8 +17,6 @@ This project uses the following datasets:
 2. **Menu**: Provides details of products (`product_id`, `product_name`, `price`).
 3. **Members**: Contains loyalty program data (`customer_id`, `join_date`).
 
-### ER Diagram:
-![ER Diagram](docs/ERD.png)
 
 ---
 
@@ -28,7 +26,6 @@ This project uses the following datasets:
 - **Non-Members**: Identifies customers to target for the loyalty program.
 - **Orders After Membership**: Measures the success of the loyalty program.
 
-Key SQL Queries are available in the [`queries/`](queries/) folder.
 
 ---
 
@@ -49,16 +46,9 @@ Key insights from the analysis:
 ---
 
 ## 🧰 Project Structure
-- `datasets/`: Contains the raw data files (CSV format).
-- `queries/`: Includes all SQL queries used in the analysis.
-- `outputs/`: Contains the insights and visualizations derived from the analysis.
-- `docs/`: Project documentation (e.g., ER diagrams, normalization details).
+
 - `ppt/`: The PowerPoint presentation for this project.
 
 ---
 
-## 📂 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/TeeJays-Diner-SQL-Analysis.git
-   cd TeeJays-Diner-SQL-Analysis
+
