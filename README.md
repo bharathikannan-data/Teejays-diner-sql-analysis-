@@ -45,10 +45,6 @@ Key insights from the analysis:
 
 ---
 
-## 🧰 Project Structure
 
-- `ppt/`: The PowerPoint presentation for this project.
-
----
 
 
